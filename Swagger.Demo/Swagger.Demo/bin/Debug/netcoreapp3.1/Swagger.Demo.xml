@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Swagger.Demo</name>
+    </assembly>
+    <members>
+        <member name="M:Swagger.Demo.Controllers.WeatherForecastController.Get">
+            <summary>
+            THis Get method returns the fake weather
+            </summary>
+            <returns>Returns an array of weather forcast</returns>
+        </member>
+        <member name="P:Swagger.Demo.WeatherForecast.Date">
+            <summary>
+            Date For the weather
+            </summary>
+        </member>
+        <member name="P:Swagger.Demo.WeatherForecast.TemperatureC">
+            <summary>
+            Temperature in C
+            </summary>
+        </member>
+        <member name="P:Swagger.Demo.WeatherForecast.TemperatureF">
+            <summary>
+            Temperature in F
+            </summary>
+        </member>
+        <member name="P:Swagger.Demo.WeatherForecast.Summary">
+            <summary>
+            Summary
+            </summary>
+        </member>
+    </members>
+</doc>
